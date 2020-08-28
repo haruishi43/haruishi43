@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 ### Some Stats
 
 ![haruishi43's github stats](https://github-readme-stats.vercel.app/api?username=haruishi43&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haruishi43&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruishi43&hide=jupyter%20notebook&layout=compact" />
 
 
 <!--START_SECTION:waka-->
