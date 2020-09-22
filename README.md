@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Some Stats
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haruishi43&count_private=true&show_icons=true" />
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=haruishi43&count_private=true&show_icons=true" />
-</p>
-
-<p>
+</br>
 
 <!--START_SECTION:waka-->
 ```text
@@ -32,5 +31,3 @@ Other      9 mins          ▒░░░░░░░░░░░░░░░░�
 JSON       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
-
-</p>
