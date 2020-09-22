@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=haruishi43&count_private=true&show_icons=true" />
 </p>
 
+<p>
+
 <!--START_SECTION:waka-->
 ```text
 Python     19 hrs 29 mins  █████████████████████▒░░░   85.65 % 
@@ -30,3 +32,5 @@ Other      9 mins          ▒░░░░░░░░░░░░░░░░�
 JSON       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
+
+</p>
