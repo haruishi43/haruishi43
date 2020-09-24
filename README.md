@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 </br>
 
+### Daily Averages
+
 <!--START_SECTION:waka-->
 ```text
 Python     18 hrs 57 mins  █████████████████████░░░░   84.10 % 
