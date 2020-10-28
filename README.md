@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python     6 hrs 25 mins   ██████████████▓░░░░░░░░░░   58.42 % 
-YAML       3 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   32.84 % 
-Markdown   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python     9 hrs 1 min     ██████████████████░░░░░░░   71.99 % 
+YAML       2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Markdown   53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+TOML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
