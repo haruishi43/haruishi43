@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   23 mins         █████████████████████░░░░   83.77 % 
+Bash       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Other      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 <!--END_SECTION:waka-->
