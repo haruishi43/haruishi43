@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Docker     2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   39.59 % 
-Bash       1 hr 57 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 % 
-Markdown   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-CSV        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Python     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Python     3 hrs           ████████▒░░░░░░░░░░░░░░░░   33.93 % 
+Docker     2 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 % 
+Bash       1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
+Markdown   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+CSV        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 <!--END_SECTION:waka-->
