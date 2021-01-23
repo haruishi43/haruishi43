@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   4 hrs 45 mins   █████████████████████▒░░░   84.95 % 
-C++      37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Bash     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python   4 hrs 25 mins   ███████████████████████▓░   95.33 % 
+YAML     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 <!--END_SECTION:waka-->
