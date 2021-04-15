@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML    3 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.09 % 
-SCSS    1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-JSON    59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-YAML    41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Other   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+HTML     21 mins         █████████████████░░░░░░░░   67.49 % 
+Python   10 mins         ████████░░░░░░░░░░░░░░░░░   32.51 % 
 ```
 <!--END_SECTION:waka-->
